@@ -1,0 +1,8 @@
+title: Centro Paula Souza - Front-end
+description: CPS Front-end - Manual e framework front-end para projetos web do Centro Paula Souza.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
